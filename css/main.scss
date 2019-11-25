@@ -40,4 +40,20 @@ $cloudy: #828282;
   .post-teaser__title {
   	 color: #F5F5F5;
   }
+}.PageNavigation {
+.PageNavigation {
+  display: block;
+  width: auto;
+  overflow: hidden;
+}
+
+.PageNavigation a {
+  display: block;
+  width: 50%;
+  float: left;
+  margin: 1em 0;
+}
+
+.PageNavigation .next {
+  text-align: right;
 }
