@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>&lt; k &gt;</title>
+    <title>&amp;lt;k&amp;gt;</title>
     <description>Wait–did you hear that? Silence!
 </description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 25 Nov 2019 13:33:06 +0100</pubDate>
-    <lastBuildDate>Mon, 25 Nov 2019 13:33:06 +0100</lastBuildDate>
+    <link>https://elkraneo.github.io/</link>
+    <atom:link href="https://elkraneo.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 25 Nov 2019 13:34:35 +0100</pubDate>
+    <lastBuildDate>Mon, 25 Nov 2019 13:34:35 +0100</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
@@ -15,8 +15,8 @@
         <description>&lt;p&gt;&lt;a href=&quot;https://existentialcomics.com/comic/295&quot;&gt;&lt;img src=&quot;https://static.existentialcomics.com/comics/WhatIsExistentialism.png&quot; alt=&quot;What is Existentialism? - Existential Comics&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 07 Oct 2019 09:56:00 +0200</pubDate>
-        <link>http://localhost:4000/comics/2019/10/07/What-is-Existentialism-Existential-Comics.html</link>
-        <guid isPermaLink="true">http://localhost:4000/comics/2019/10/07/What-is-Existentialism-Existential-Comics.html</guid>
+        <link>https://elkraneo.github.io/comics/2019/10/07/What-is-Existentialism-Existential-Comics.html</link>
+        <guid isPermaLink="true">https://elkraneo.github.io/comics/2019/10/07/What-is-Existentialism-Existential-Comics.html</guid>
         
         
         <category>comics</category>
@@ -86,8 +86,8 @@ Muy afortunado de tenerlo enfocado exclusivamente en esta búsqueda personal y m
 &lt;p&gt;Extra gracias a &lt;a href=&quot;https://www.youtube.com/watch?v=TcOErkCijM4&quot;&gt;Carlos&lt;/a&gt;, con su talento como técnico de sonido, locutor, cantante y habilidad para trabajar en equipo. Alba, por su constancia (y paciencia esperando mientras copiaba) y a aquellos envueltos tras bambalinas cuadrando este curso en el desértico agosto de Madrid.&lt;/p&gt;
 </description>
         <pubDate>Sun, 25 Aug 2019 23:40:00 +0200</pubDate>
-        <link>http://localhost:4000/sound/music/2019/08/25/Locucio-n-(review).html</link>
-        <guid isPermaLink="true">http://localhost:4000/sound/music/2019/08/25/Locucio-n-(review).html</guid>
+        <link>https://elkraneo.github.io/sound/music/2019/08/25/Locucio-n-(review).html</link>
+        <guid isPermaLink="true">https://elkraneo.github.io/sound/music/2019/08/25/Locucio-n-(review).html</guid>
         
         
         <category>sound</category>
@@ -104,8 +104,8 @@ Muy afortunado de tenerlo enfocado exclusivamente en esta búsqueda personal y m
 &lt;p&gt;&lt;a href=&quot;https://vimeo.com/351762799&quot;&gt;pattern draw take 2&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/elkraneo&quot;&gt;elkraneo&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sat, 03 Aug 2019 13:13:00 +0200</pubDate>
-        <link>http://localhost:4000/wie-shaders/metal/generative/2019/08/03/pattern-draw-take-2.html</link>
-        <guid isPermaLink="true">http://localhost:4000/wie-shaders/metal/generative/2019/08/03/pattern-draw-take-2.html</guid>
+        <link>https://elkraneo.github.io/wie-shaders/metal/generative/2019/08/03/pattern-draw-take-2.html</link>
+        <guid isPermaLink="true">https://elkraneo.github.io/wie-shaders/metal/generative/2019/08/03/pattern-draw-take-2.html</guid>
         
         
         <category>wie-shaders</category>
@@ -123,8 +123,8 @@ Muy afortunado de tenerlo enfocado exclusivamente en esta búsqueda personal y m
 &lt;img src=&quot;/assets/6c86846d69.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 26 Jul 2019 22:29:00 +0200</pubDate>
-        <link>http://localhost:4000/wie-shaders/metal/generative/2019/07/26/some.html</link>
-        <guid isPermaLink="true">http://localhost:4000/wie-shaders/metal/generative/2019/07/26/some.html</guid>
+        <link>https://elkraneo.github.io/wie-shaders/metal/generative/2019/07/26/some.html</link>
+        <guid isPermaLink="true">https://elkraneo.github.io/wie-shaders/metal/generative/2019/07/26/some.html</guid>
         
         
         <category>wie-shaders</category>
@@ -143,8 +143,8 @@ Muy afortunado de tenerlo enfocado exclusivamente en esta búsqueda personal y m
 &lt;p&gt;&lt;a href=&quot;https://vimeo.com/350380175&quot;&gt;PatternDraw&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/elkraneo&quot;&gt;elkraneo&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Fri, 26 Jul 2019 20:08:00 +0200</pubDate>
-        <link>http://localhost:4000/wie-shaders/metal/generative/2019/07/26/PatternDraw.html</link>
-        <guid isPermaLink="true">http://localhost:4000/wie-shaders/metal/generative/2019/07/26/PatternDraw.html</guid>
+        <link>https://elkraneo.github.io/wie-shaders/metal/generative/2019/07/26/PatternDraw.html</link>
+        <guid isPermaLink="true">https://elkraneo.github.io/wie-shaders/metal/generative/2019/07/26/PatternDraw.html</guid>
         
         
         <category>wie-shaders</category>
@@ -160,8 +160,8 @@ Muy afortunado de tenerlo enfocado exclusivamente en esta búsqueda personal y m
         <description>&lt;p&gt;&lt;img src=&quot;/assets/a9ff90e0d4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 25 Jul 2019 22:09:00 +0200</pubDate>
-        <link>http://localhost:4000/wie-shaders/metal/generative/2019/07/25/mirrored_repeat.html</link>
-        <guid isPermaLink="true">http://localhost:4000/wie-shaders/metal/generative/2019/07/25/mirrored_repeat.html</guid>
+        <link>https://elkraneo.github.io/wie-shaders/metal/generative/2019/07/25/mirrored_repeat.html</link>
+        <guid isPermaLink="true">https://elkraneo.github.io/wie-shaders/metal/generative/2019/07/25/mirrored_repeat.html</guid>
         
         
         <category>wie-shaders</category>
@@ -177,8 +177,8 @@ Muy afortunado de tenerlo enfocado exclusivamente en esta búsqueda personal y m
         <description>&lt;p&gt;&lt;img src=&quot;/assets/1d4577d511.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 22 Jul 2019 18:02:00 +0200</pubDate>
-        <link>http://localhost:4000/wie-shaders/metal/generative/2019/07/22/more-triangles.html</link>
-        <guid isPermaLink="true">http://localhost:4000/wie-shaders/metal/generative/2019/07/22/more-triangles.html</guid>
+        <link>https://elkraneo.github.io/wie-shaders/metal/generative/2019/07/22/more-triangles.html</link>
+        <guid isPermaLink="true">https://elkraneo.github.io/wie-shaders/metal/generative/2019/07/22/more-triangles.html</guid>
         
         
         <category>wie-shaders</category>
@@ -194,8 +194,8 @@ Muy afortunado de tenerlo enfocado exclusivamente en esta búsqueda personal y m
         <description>&lt;p&gt;&lt;img src=&quot;/assets/de1413528f.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 22 Jul 2019 09:32:00 +0200</pubDate>
-        <link>http://localhost:4000/wie-shaders/metal/generative/2019/07/22/Canvas-to-the-rescue.html</link>
-        <guid isPermaLink="true">http://localhost:4000/wie-shaders/metal/generative/2019/07/22/Canvas-to-the-rescue.html</guid>
+        <link>https://elkraneo.github.io/wie-shaders/metal/generative/2019/07/22/Canvas-to-the-rescue.html</link>
+        <guid isPermaLink="true">https://elkraneo.github.io/wie-shaders/metal/generative/2019/07/22/Canvas-to-the-rescue.html</guid>
         
         
         <category>wie-shaders</category>
@@ -211,8 +211,8 @@ Muy afortunado de tenerlo enfocado exclusivamente en esta búsqueda personal y m
         <description>&lt;p&gt;&lt;img src=&quot;/assets/83335e74bc.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 20 Jul 2019 18:52:00 +0200</pubDate>
-        <link>http://localhost:4000/wie-shaders/metal/generative/2019/07/20/color-position.html</link>
-        <guid isPermaLink="true">http://localhost:4000/wie-shaders/metal/generative/2019/07/20/color-position.html</guid>
+        <link>https://elkraneo.github.io/wie-shaders/metal/generative/2019/07/20/color-position.html</link>
+        <guid isPermaLink="true">https://elkraneo.github.io/wie-shaders/metal/generative/2019/07/20/color-position.html</guid>
         
         
         <category>wie-shaders</category>
@@ -229,8 +229,8 @@ Muy afortunado de tenerlo enfocado exclusivamente en esta búsqueda personal y m
 &lt;img src=&quot;/assets/c8070e22c1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 20 Jul 2019 08:21:00 +0200</pubDate>
-        <link>http://localhost:4000/generative/2019/07/20/Procedural-Man-ana.html</link>
-        <guid isPermaLink="true">http://localhost:4000/generative/2019/07/20/Procedural-Man-ana.html</guid>
+        <link>https://elkraneo.github.io/generative/2019/07/20/Procedural-Man-ana.html</link>
+        <guid isPermaLink="true">https://elkraneo.github.io/generative/2019/07/20/Procedural-Man-ana.html</guid>
         
         
         <category>generative</category>
