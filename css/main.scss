@@ -22,7 +22,7 @@ $cloudy: #828282;
     background-color: #F5F5F5;
   }
   
-  a,strong, .logo {
+  strong, .logo {
   	color: #333;
   }
 }
@@ -33,14 +33,19 @@ $cloudy: #828282;
     background-color: #333;
   }
   
-  a, strong, .logo {
+  strong, .logo {
   	color: #F5F5F5;
   }
   
   .post-teaser__title {
   	 color: #F5F5F5;
   }
-}.PageNavigation {
+
+  .categories__item a {
+    color: #F5F5F5;
+  }
+}
+
 .PageNavigation {
   display: block;
   width: auto;
