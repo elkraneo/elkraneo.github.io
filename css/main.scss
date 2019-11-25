@@ -1,0 +1,43 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+sitemap:
+  exclude: 'yes'
+---
+@charset "utf-8";
+
+/* =Colors */
+$dorian: #F5F5F5;
+$iron: #333333;
+$cloudy: #828282;
+
+@import
+    "mixins",
+    "default",
+    "404"
+;
+
+@media (prefers-color-scheme: light) {
+  body {
+    color: #333;
+    background-color: #F5F5F5;
+  }
+  
+  a,strong, .logo {
+  	color: #333;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    color: #F5F5F5;
+    background-color: #333;
+  }
+  
+  a, strong, .logo {
+  	color: #F5F5F5;
+  }
+  
+  .post-teaser__title {
+  	 color: #F5F5F5;
+  }
+}

@@ -1,0 +1,25 @@
+<script src="{{ "/assets/vendor/highlight/highlight.pack.js" | prepend: site.baseurl }}"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<script src="{{ "assets/vendor/highlight/highlight.pack.js" | relURL }}"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+<script type="text/javascript" src="https://rawgit.com/patriciogonzalezvivo/glslCanvas/master/dist/GlslCanvas.js"></script>
+
+
+<script>
+function resize() {
+  var leSize = $('.glslCanvas').parent().width();
+  $('.glslCanvas').width(leSize);
+  $('.glslCanvas').height(leSize);
+}
+
+$(window).resize(function() {
+  resize();
+});
+
+$(window).bind("load", function() {
+	resize();
+});
+
+
+</script>
