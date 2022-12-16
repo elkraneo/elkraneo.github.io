@@ -2,7 +2,11 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: page
+title: Blog
+subtitle: Not all blogs are the same. Neither are blogs.
+sitemap:
+  priority: 0.9
 ---
 
 <ul class="list-posts">
