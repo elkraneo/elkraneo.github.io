@@ -34,7 +34,6 @@ github_username: jekyll
 remote_theme: elkraneo/daktilo
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
 
 
 # Exclude from processing.
