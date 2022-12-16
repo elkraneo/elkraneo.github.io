@@ -24,4 +24,4 @@ exclude: ["README.md", "README.html"]
 # Build settings
 highlighter: null
 markdown: kramdown
-theme: minima
+remote_theme: elkraneo/daktilo
