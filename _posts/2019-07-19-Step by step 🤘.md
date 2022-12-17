@@ -1,8 +1,11 @@
 ---
-layout: post
-title:  "Step by step 🤘"
-subtitle: ""
-date:   2019-07-19 09:47
-categories: [wie-shaders metal, generative]
+title: "Step by step 🤘"
+date: 2019-07-19 09:47
+categories:
+	- Wie Shaders
+tags:
+	- metal
+	- generative
 ---
-![](/assets/f825e799bc.jpg)
+
+![Metal: step by step](/assets/f825e799bc.jpg)

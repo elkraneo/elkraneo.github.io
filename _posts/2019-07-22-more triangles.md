@@ -1,8 +1,12 @@
 ---
-layout: post
-title:  "more triangles"
-subtitle: ""
-date:   2019-07-22 18:02
-categories: [wie-shaders, metal, generative]
+title: "more triangles"
+date: 2019-07-22 18:02
+categories:
+	- Wie Shaders
+tags:
+	- metal
+	- generative
+    - screenshot
 ---
-![](/assets/1d4577d511.png)
+
+![Metal: more triangle](/assets/1d4577d511.png)

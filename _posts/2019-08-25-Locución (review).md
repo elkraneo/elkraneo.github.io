@@ -1,10 +1,12 @@
 ---
-layout: post
-title:  "Locución (review)"
-subtitle: ""
-date:   2019-08-25 23:40
-categories: [sound, music]
+title: "Locución (review)"
+date: 2019-08-25 23:40
+categories:
+	- Sound
+tags:
+	- voice
 ---
+
 ## y next steps
 
 ## TL;DR:
