@@ -60,30 +60,27 @@ author:
   avatar : "https://en.gravatar.com/userimage/12916512/87fe15182094bd3dfe769a268bfb3ba5.png?size=200"
   bio    : "Wait–did you hear that? Silence!"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/elkraneo"
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://mastodon.social/@elkraneo"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://elkraneo.github.io/tweetback/"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/elkraneo"
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://mastodon.social/@elkraneo"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://elkraneo.github.io/tweetback/"
 
 defaults:
   # _posts
@@ -92,7 +89,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       read_time: false
       comments: true
       share: true
