@@ -2,10 +2,10 @@
 title: "Shader: SquareWaveform5"
 date: 2019-05-24 16:57
 categories:
-	- Wie Shaders
+  - Wie Shaders
 tags:
-	- glsl
-	- generative
+  - glsl
+  - generative
 ---
 
 <section>
