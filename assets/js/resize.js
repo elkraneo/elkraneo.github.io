@@ -1,4 +1,3 @@
-<script>
 function resize() {
   var leSize = $('.glslCanvas').parent().width();
   $('.glslCanvas').width(leSize);
@@ -12,6 +11,3 @@ $(window).resize(function() {
 $(window).bind("load", function() {
 	resize();
 });
-
-
-</script>
