@@ -112,5 +112,5 @@ tag_archive:
   type: liquid
   path: /tags/
 
-  head_scripts:
+head_scripts:
   - /assets/js/GlslCanvas.js
