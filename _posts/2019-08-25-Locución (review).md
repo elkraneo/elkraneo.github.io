@@ -2,9 +2,9 @@
 title: "Locución (review)"
 date: 2019-08-25 23:40
 categories:
-	- Sound
+  - Sounds
 tags:
-	- voice
+  - voice
 ---
 
 ## y next steps

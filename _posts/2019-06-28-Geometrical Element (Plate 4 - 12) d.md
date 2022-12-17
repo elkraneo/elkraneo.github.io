@@ -2,10 +2,10 @@
 title: "Shader: Geometrical Element (Plate 4 - 12) d"
 date: 2019-06-28 20:42
 categories:
-	- Wie Shaders
+  - Wie Shaders
 tags:
-	- glsl
-	- generative
+  - glsl
+  - generative
 ---
 
 <section>

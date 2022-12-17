@@ -2,10 +2,10 @@
 title: "Shader: Ornament5b(bw)"
 date: 2019-06-14 09:42
 categories:
-	- Wie Shaders
+  - Wie Shaders
 tags:
-	- glsl
-	- generative
+  - glsl
+  - generative
 ---
 
 <section>

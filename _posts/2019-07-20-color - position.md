@@ -2,10 +2,10 @@
 title: "color - positio"
 date: 2019-07-20 18:52
 categories:
-	- Wie Shaders
+  - Wie Shaders
 tags:
-	- metal
-	- generative
+  - metal
+  - generative
 ---
 
 ![Metal: color - position](/assets/83335e74bc.jpg)

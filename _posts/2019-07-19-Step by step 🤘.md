@@ -2,10 +2,10 @@
 title: "Step by step 🤘"
 date: 2019-07-19 09:47
 categories:
-	- Wie Shaders
+  - Wie Shaders
 tags:
-	- metal
-	- generative
+  - metal
+  - generative
 ---
 
 ![Metal: step by step](/assets/f825e799bc.jpg)

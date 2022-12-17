@@ -1,10 +1,12 @@
 ---
-layout: post
-title:  "Hip-Hop/Rap recommendations"
-subtitle: ""
-date:   2020-01-14 17:25
-categories: [music]
+title: "Hip-Hop/Rap recommendations"
+date: 2020-01-14 17:25
+categories:
+  - Sounds
+tags:
+  - music
 ---
+
 <iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/de/album/damn/1440881047?l=en"></iframe>
 
 <iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/de/album/run-come-save-me/416303658?l=en"></iframe>

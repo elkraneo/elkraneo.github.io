@@ -2,9 +2,10 @@
 title: "Shader: CellularNoise1c"
 date: 2019-07-20 08:21
 categories:
-    - Photos
+  - Image
 tags:
-	- generative
+  - generative
+  - photo
 ---
 
 ![Procedural Mañana 1](/assets/3da556fd10.jpg)

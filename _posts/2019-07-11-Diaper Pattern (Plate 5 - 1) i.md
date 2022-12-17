@@ -2,10 +2,10 @@
 title: "Shader: Diaper Pattern (Plate 5 - 1) i"
 date: 2019-07-11 18:26
 categories:
-	- Wie Shaders
+  - Wie Shaders
 tags:
-	- glsl
-	- generative
+  - glsl
+  - generative
 ---
 
 <section>

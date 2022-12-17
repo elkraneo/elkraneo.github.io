@@ -2,10 +2,10 @@
 title: "Shader: GeometricalElement15c"
 date: 2019-06-21 20:32
 categories:
-	- Wie Shaders
+  - Wie Shaders
 tags:
-	- glsl
-	- generative
+  - glsl
+  - generative
 ---
 
 <section>

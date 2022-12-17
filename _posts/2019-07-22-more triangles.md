@@ -2,11 +2,11 @@
 title: "more triangles"
 date: 2019-07-22 18:02
 categories:
-	- Wie Shaders
+  - Images
 tags:
-	- metal
-	- generative
-    - screenshot
+  - metal
+  - generative
+  - screenshot
 ---
 
 ![Metal: more triangle](/assets/1d4577d511.png)
