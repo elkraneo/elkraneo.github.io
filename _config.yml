@@ -56,9 +56,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Cristian Díaz"
+  avatar : "https://en.gravatar.com/userimage/12916512/87fe15182094bd3dfe769a268bfb3ba5.png?size=200"
+  bio    : "Wait–did you hear that? Silence!"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

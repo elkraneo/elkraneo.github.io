@@ -1,8 +1,15 @@
 ---
-layout: post
-title:  "Twitter Archive"
-subtitle: ""
-date:   2022-12-16 18:32
-categories: [twitter]
+title: "Post: Twitter Archive"
+categories:
+  - Blog
+tags:
+  - link
+  - Post Formats
+link: https://elkraneo.github.io/tweetback/
 ---
- [Twitter Archive](https://elkraneo.github.io/tweetback/)
+
+This theme supports **link posts**, made famous by John Gruber. To use, just add `link: http://url-you-want-linked` to the post's YAML front matter and you're done.
+
+> And this is how a quote looks.
+
+Some [tweetback](#https://elkraneo.github.io/tweetback/) can also be shown.
