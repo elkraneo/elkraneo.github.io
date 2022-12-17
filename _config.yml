@@ -113,4 +113,4 @@ tag_archive:
   path: /tags/
 
 head_scripts:
-  - /assets/js/glslcanvas/GlslCanvas.js
+  - /assets/js/GlslCanvas.min.js
