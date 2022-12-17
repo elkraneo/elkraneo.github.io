@@ -113,4 +113,6 @@ tag_archive:
   path: /tags/
 
 head_scripts:
-  - /assets/js/GlslCanvas.min.js
+  - /assets/js/GlslCanvas.min.js 
+  - https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.0/jquery.min.js
+  - /assets/js/resize.js
