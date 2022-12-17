@@ -1,6 +1,6 @@
 ---
 title: "Mañana vs Papá Pitufo"
-date: 2019-05-02 17:38
+date: 2019-05-02T17:38:00
 categories: 
     - Photos
 ---
