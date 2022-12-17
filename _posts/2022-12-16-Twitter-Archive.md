@@ -1,5 +1,5 @@
 ---
-title: "Post: Twitter Archive"
+title: "Twitter Archive"
 categories:
   - Blog
 tags:
