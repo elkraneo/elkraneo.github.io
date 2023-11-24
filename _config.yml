@@ -1,116 +1,74 @@
-# Welcome to Jekyll!
+# Welcome to Jekyll and thank you for using Simply-cyan !
 #
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
+# This config file allow you to set up the different parameters of your site.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# Here are the contents of this file:
+# 1. Site settings
+# 2. Site display settings
+# 3. Ignored files while building
+# 4. Plugins
+# 5. Collections
+# 6. Jekyll settings
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: "&lt;k&gt;"
-email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Wait–did you hear that? Silence!
-twitter_username: elkraneo
-github_username: elkraneo
-minimal_mistakes_skin: "contrast" # "air", "aqua", "default", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-search: true
+# 1. SITE SETTINGS
+# This is where you can personnalize the different parameters of your website, such as its title, its description etc.
+# You'll be able to call these different parameters via {{ site.yourparam }} (e.g. {{ site.title }} to retrieve the title of you site on any of your page).
+# You can add to this list any new parameter you wish, and access it anywhere in the templates.
 
-# Build settings
-markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
-# Outputting
-permalink: /:categories/:title/
-paginate: 11 # amount of posts to show
-paginate_path: /page:num/
-timezone: Europe/Berlin # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+title: "A site made with Simply Cyan" # The site title
+lang: en-GB # The site language
+encoding: utf-8
+description: "An amazing website" # The description of the site
+copyright: "© It belongs to me." # The mentions that appear in the site's footer
+url: "" # The base hostname for you site, e.g. http://mysite.com
+baseurl: "/simply-cyan-theme" # The subpath of your site, e.g. /blog
+repo:
+email: youremail@something.com # The owner's email
+# google_analytics: ""
+# google_analytics_anonymize_ip: ""
 
-include:
-  - _pages
+# 2. SITE AVALAIBLE FUNCTIONS
+darkmode: true # Allows the switch between dark and light mode
+typosize: true # Allows to change the size of the font
+home-posts-limit: 10 # Change the limit of posts displayed on the home page
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# 3. IGNORED FILES WHILE building
+# These files are essential to the building of your website, but you don't want them to be built with the others
+exclude:
+  - README.md
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - simply-cyan.gemspec
+  - .jekyll-cache
+  - LICENSE.txt
+  - CODE_OF_CONDUCT.md
 
-# Plugins (previously gems:)
+# 4. Plugins
 plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
   - jekyll-feed
-  - jemoji
-  - jekyll-include-cache
+  - jekyll-remote-theme
 
-author:
-  name   : "Cristian Díaz"
-  avatar : "https://en.gravatar.com/userimage/12916512/87fe15182094bd3dfe769a268bfb3ba5.png?size=200"
-  bio    : "Wait–did you hear that? Silence!"
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/elkraneo"
-    - label: "Mastodon"
-      icon: "fab fa-fw fa-mastodon"
-      url: "https://mastodon.social/@elkraneo"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://elkraneo.github.io/tweetback/"
+remote_theme: PQuod/simply-cyan-theme
 
-footer:
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/elkraneo"
-    - label: "Mastodon"
-      icon: "fab fa-fw fa-mastodon"
-      url: "https://mastodon.social/@elkraneo"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://elkraneo.github.io/tweetback/"
+# 5. Collections
+# Authors's list
+collections:
+  categories:
+    output: true
+    permalink: /:collection/:name/
 
 defaults:
-  # _posts
   - scope:
       path: ""
-      type: posts
+      type: category
     values:
-      layout: single
-      author_profile: true
-      read_time: false
-      comments: true
-      share: true
-      related: true
-      show_date: false
-  # _pages
-  - scope:
-      path: "_pages"
-      type: pages
-    values:
-      layout: single
-      author_profile: true
+      layout: "categories"
 
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
+# 6. Jekyll settings
+permalink: pretty # Permalink will be /YYY/MM/DD/page-name/
+timezone: Europe/London
 
-head_scripts:
-  - /assets/js/GlslCanvas.min.js
-  - https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.0/jquery.min.js
-  - /assets/js/resize.js
+
