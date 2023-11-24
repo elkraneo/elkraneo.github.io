@@ -1,6 +1,5 @@
 # frozen_string_literal: true
 
-gem "github-pages", group: :jekyll_plugins
 
 source "https://rubygems.org"
 # Hello! This is where you manage which Jekyll version is used to run.
@@ -12,6 +11,7 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 gem "jekyll", "~> 4.0.0"
+gem "github-pages", group: :jekyll_plugins
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
