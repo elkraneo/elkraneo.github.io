@@ -17,15 +17,15 @@
 # You'll be able to call these different parameters via {{ site.yourparam }} (e.g. {{ site.title }} to retrieve the title of you site on any of your page).
 # You can add to this list any new parameter you wish, and access it anywhere in the templates.
 
-title: "A site made with Simply Cyan" # The site title
+title: "A&lt;k&gt;" # The site title
 lang: en-GB # The site language
 encoding: utf-8
-description: "An amazing website" # The description of the site
+description: "Wait–did you hear that? Silence!" # The description of the site
 copyright: "© It belongs to me." # The mentions that appear in the site's footer
-url: "" # The base hostname for you site, e.g. http://mysite.com
+url: "https://elkraneo.github.io" # The base hostname for you site, e.g. http://mysite.com
 baseurl: "/" # The subpath of your site, e.g. /blog
 repo:
-email: youremail@something.com # The owner's email
+email: cristian@210x7.io # The owner's email
 # google_analytics: ""
 # google_analytics_anonymize_ip: ""
 
@@ -55,10 +55,10 @@ remote_theme: PQuod/simply-cyan-theme
 
 # 5. Collections
 # Authors's list
-collections:
-  categories:
-    output: true
-    permalink: /:collection/:name/
+# collections:
+#   categories:
+#     output: true
+#     permalink: /:collection/:name/
 
 defaults:
   - scope:
@@ -69,6 +69,6 @@ defaults:
 
 # 6. Jekyll settings
 permalink: pretty # Permalink will be /YYY/MM/DD/page-name/
-timezone: Europe/London
+timezone: Europe/Berlin
 
 
