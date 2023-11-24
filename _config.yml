@@ -17,7 +17,7 @@
 # You'll be able to call these different parameters via {{ site.yourparam }} (e.g. {{ site.title }} to retrieve the title of you site on any of your page).
 # You can add to this list any new parameter you wish, and access it anywhere in the templates.
 
-title: "A&lt;k&gt;" # The site title
+title: "elkraneo" # The site title
 lang: en-GB # The site language
 encoding: utf-8
 description: "Wait–did you hear that? Silence!" # The description of the site
