@@ -21,7 +21,7 @@ title: "elkraneo" # The site title
 lang: en-GB # The site language
 encoding: utf-8
 description: "Wait–did you hear that? Silence!" # The description of the site
-copyright: "© It belongs to me." # The mentions that appear in the site's footer
+copyright: "© 2023" # The mentions that appear in the site's footer
 url: "https://elkraneo.github.io" # The base hostname for you site, e.g. http://mysite.com
 baseurl: "/" # The subpath of your site, e.g. /blog
 repo:
@@ -45,11 +45,22 @@ exclude:
   - .jekyll-cache
   - LICENSE.txt
   - CODE_OF_CONDUCT.md
+  - docs/
+  - vendor/
+  - LICENSE
+  - Makefile
+  - sample*.png
 
 # 4. Plugins
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
+  - jekyll-avatar
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-redirect
+  - jekyll-sitemap
+  - jemoji
+  - jekyll-include-cache
 
 remote_theme: PQuod/simply-cyan-theme
 
