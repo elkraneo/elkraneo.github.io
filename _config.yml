@@ -28,11 +28,21 @@ repo:
 email: cristian@210x7.io # The owner's email
 # google_analytics: ""
 # google_analytics_anonymize_ip: ""
+links:
+  - label: "GitHub"
+    icon: "fab fa-fw fa-github"
+    url: "https://github.com/elkraneo"
+  - label: "Mastodon"
+    icon: "fab fa-fw fa-mastodon"
+    url: "https://mastodon.social/@elkraneo"
+  - label: "Twitter"
+    icon: "fab fa-fw fa-twitter-square"
+    url: "https://elkraneo.github.io/tweetback/"
 
 # 2. SITE AVALAIBLE FUNCTIONS
 darkmode: true # Allows the switch between dark and light mode
 typosize: true # Allows to change the size of the font
-home-posts-limit: 10 # Change the limit of posts displayed on the home page
+home-posts-limit: 11 # Change the limit of posts displayed on the home page
 
 # 3. IGNORED FILES WHILE building
 # These files are essential to the building of your website, but you don't want them to be built with the others
@@ -57,7 +67,7 @@ plugins:
   - jekyll-avatar
   - jekyll-gist
   - jekyll-paginate
-  - jekyll-redirect
+  - jekyll-redirect-from
   - jekyll-sitemap
   - jemoji
   - jekyll-include-cache
@@ -66,10 +76,10 @@ remote_theme: PQuod/simply-cyan-theme
 
 # 5. Collections
 # Authors's list
-# collections:
-#   categories:
-#     output: true
-#     permalink: /:collection/:name/
+collections:
+  categories:
+    output: true
+    permalink: /:collection/:name/
 
 defaults:
   - scope:

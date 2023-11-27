@@ -2,7 +2,14 @@
 layout: default
 ---
 <article>
-    <h1 class="custom-pages-title">All the articles</h1>
+    <h1 class="custom-pages-title">Posts timeline</h1>
+    <!-- <ul>
+        {% for post in site.posts %}
+        <a href="{{ post.url | relative_url}}">
+            <li><h3 class="list_post_title"><span class="a-nude">{{ post.date | date: "%Y/%m/%d" | escape }} → {{ post.title | truncate: 42 | escape }}</span></h3></li>
+        </a>
+        {% endfor %}
+    </ul> -->
     <table class="archives-table">
         {% for post in site.posts %}
             <tr>
@@ -12,7 +19,7 @@ layout: default
                     </a>
                 </td>
                 <td class="archives-date">
-                    <h2 class="list_post_title">&#10040; {{ post.date | date: "%d/%m/%Y" | escape }}</h2>
+                    <h3 class="list_post_title">{{ post.date | date: "%d/%m/%Y" | escape }}</h3>
                 </td>
             </tr>
         {% endfor %}

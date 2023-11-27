@@ -1,0 +1,16 @@
+
+{%- include head.html -%}
+  <body>
+    {%- include functions.html -%}
+    {%- include header.html -%}
+    <main class="page_content" aria-label="Content">
+    
+    {% assign filtered_posts = site.posts | where:"category","Project" %}
+    {% for post in filtered_posts %}  
+    {{ post.content | markdownify }}
+    {% endfor %}
+    </main>
+    {%- include footer.html -%}
+    {%- include functionsscript.html -%}
+  </body>
+</html>

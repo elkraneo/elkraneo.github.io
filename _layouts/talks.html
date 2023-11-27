@@ -1,0 +1,17 @@
+---
+layout: default
+---
+<article>
+    <h1 class="custom-pages-title">Talks and Presentations</h1>
+    {% assign filtered_posts = site.posts | where:"category","Talk" %}
+    {% for post in filtered_posts %}
+    <article>
+        <h3> {{ post.date | date: "%d/%m/%Y" }} </h3>
+        <a href="{{ post.url | relative_url}}">
+            <h2 class="list_post_title"><span class="a-nude">{{ post.title | escape }}</span></h2>
+        </a>
+        {{ post.content }}
+        <div class="line"></div>
+    </article>
+    {% endfor %}
+</article>

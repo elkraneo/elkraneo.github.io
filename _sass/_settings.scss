@@ -31,7 +31,7 @@
 #dark-mode:checked ~ .theme-container {
   --bg-color: #333; // Background color
   --font-color: #eee; // Font color
-  --custom-color: #ef1a63; // Complementary color, for the lines and underlinings
+  --custom-color: rgba(255, 190, 0, 100); // Complementary color, for the lines and underlinings
   --lines: linear-gradient(
     to top,
     var(--custom-color) 50%,
