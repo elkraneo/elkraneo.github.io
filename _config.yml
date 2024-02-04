@@ -21,7 +21,7 @@ title: "elkraneo" # The site title
 lang: en-GB # The site language
 encoding: utf-8
 description: "Wait–did you hear that? Silence!" # The description of the site
-copyright: "© 2023" # The mentions that appear in the site's footer
+copyright: "© 2024" # The mentions that appear in the site's footer
 url: "https://elkraneo.github.io" # The base hostname for you site, e.g. http://mysite.com
 baseurl: "/" # The subpath of your site, e.g. /blog
 repo:
